@@ -1,0 +1,6 @@
+﻿  modific.cpp
+C:\Users\susha\source\repos\lines\lines\modific.cpp(18,28): error C2065: 'd': undeclared identifier
+C:\Users\susha\source\repos\lines\lines\modific.cpp(19,5): error C2146: syntax error: missing ';' before identifier 'glScalef'
+C:\Users\susha\source\repos\lines\lines\modific.cpp(457,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\susha\source\repos\lines\lines\modific.cpp(462,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\susha\source\repos\lines\lines\modific.cpp(467,23): warning C4018: '<': signed/unsigned mismatch
